@@ -1,3 +1,4 @@
+I used a multiple linear regression model, the reason being that I wanted to model family support. I did this using phone calls from my dad, mom, and sister as the predictors to a dependent variable being the duration of the calls.
 # Load necessary libraries
 library(ggplot2)      # For creating plots
 library(readr)        # For reading CSV files
